@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1120 1120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.00022,0,0,1.00022,-907.932,172.967)">
+        <g id="Artboard1">
+            <g id="Layer-1" serif:id="Layer 1">
+                <clipPath id="_clip1">
+                    <rect x="907.736" y="-172.93" width="1119.76" height="1119.76"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(0.264584,0,0,0.264584,3.66235e-08,-1037.48)">
+                        <g id="Background">
+                            <path d="M-0.001,-3.78L-0.141,8157.95L14513.5,8157.95L14513.5,-3.78L-0.001,-3.78Z" style="fill:url(#_Linear2);fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <circle id="Sun" cx="1493.83" cy="398.148" r="516.777" style="fill:rgb(255,196,135);"/>
+                    <g id="Mountains" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                        <g transform="matrix(1,0,0,0.998591,0,5.67555)">
+                            <path d="M3488.1,4028.37L2747.46,5233.56L2668.1,6077.19L1500.34,7565.68L234.567,5876.33L0,6205.86L0,8158.79C0,8161.55 2.228,8163.78 4.99,8163.78L14508.4,8163.78C14511.2,8163.78 14513.5,8161.55 14513.5,8158.79L14513.5,6253.1L13513.2,7242.22L12428.7,6840.49L11749.7,5490.27L10492.8,5345.2L9112.47,4814.03L8778.4,5554.95L8117.11,5755.81L6782.84,6900.68L5734.58,6307L4969.39,4912.18L4387.45,4791.66L3488.1,4028.37Z" style="fill:rgb(101,68,157);"/>
+                        </g>
+                        <g id="Mountain-Gradient" serif:id="Mountain Gradient">
+                            <path d="M0,6318C-0.318,6931.59 0,8157.95 0,8157.95L14513.6,8157.95L14513.6,6318L0,6318Z" style="fill:url(#_Radial3);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3782">
+                        </g>
+                    </g>
+                    <g id="Birds">
+                    </g>
+                    <g id="Trees">
+                        <g id="path3790">
+                        </g>
+                        <g id="path3794">
+                        </g>
+                        <g id="path3796" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                            <path d="M7304.04,7091.39L7042.44,8163.78L7571.87,8163.78L7304.04,7091.39Z" style="fill:rgb(89,46,125);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3798" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                            <path d="M7995.73,6283.86L7574.7,8153.8L7881.38,8132.79L7880.53,8163.78L8119.66,8163.78L8120.48,8127.54L8421.95,8132.79L7995.73,6283.86Z" style="fill:rgb(89,46,125);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3800">
+                        </g>
+                        <g id="path3802">
+                        </g>
+                        <g id="path3806">
+                        </g>
+                        <g id="path3808">
+                        </g>
+                        <g id="path3810">
+                        </g>
+                        <g id="path3814">
+                        </g>
+                        <g id="path3816" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                            <path d="M6318.24,5771.51L5750.46,8013.78L6164.03,7988.59L6158.61,8163.78L6481.88,8163.78L6486.47,7982.28L6893.03,7988.59L6318.24,5771.51Z" style="fill:rgb(89,46,125);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3818" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                            <path d="M5551.17,7098.16L5308.24,7983.68L5485.19,7973.73L5482.19,8063.27L5473.19,8108.05L5455.59,8163.78L5636.85,8163.78L5620.15,8080.68L5623.15,7971.24L5797.1,7973.73L5551.17,7098.16Z" style="fill:rgb(89,46,125);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3820" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                            <path d="M5126.65,6232.95L4635.3,8048.38L4993.2,8027.98L4988.71,8163.78L5268.43,8163.78L5272.23,8022.88L5624.06,8027.98L5126.65,6232.95Z" style="fill:rgb(89,46,125);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3822" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                            <path d="M4357.22,5156.24L3808.55,7688.16L4208.2,7659.71L4201.43,7915.75L4181.1,8043.76L4151.16,8163.78L4544.48,8163.78L4513.01,7965.53L4519.79,7652.6L4912.67,7659.71L4357.22,5156.24Z" style="fill:rgb(89,46,125);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3824" transform="matrix(0.264583,0,0,0.264583,0,-1037.48)">
+                            <path d="M3366.62,5560.01L2751.07,7802.28L3199.44,7777.09L3191.83,8003.84L3169.04,8117.21L3154.32,8163.78L3564.71,8163.78L3541.41,8047.92L3549.01,7770.79L3989.78,7777.09L3366.62,5560.01Z" style="fill:rgb(89,46,125);fill-rule:nonzero;"/>
+                        </g>
+                        <g id="path3826">
+                        </g>
+                        <g id="path3010">
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-84.1175,8000.2,-8000.2,-84.1175,6967.39,-954.884)"><stop offset="0" style="stop-color:rgb(114,125,255);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,171,135);stop-opacity:1"/></linearGradient>
+        <radialGradient id="_Radial3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-4.16341,-1738.59,35986.6,-98.708,7655.35,8349.85)"><stop offset="0" style="stop-color:rgb(214,214,228);stop-opacity:0.36"/><stop offset="1" style="stop-color:rgb(184,187,200);stop-opacity:0"/></radialGradient>
+    </defs>
+</svg>

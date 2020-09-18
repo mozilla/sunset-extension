@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "version": "1.0.0",
+  "browser_specific_settings": {
+    "gecko": {
+      // Fill in your extension id here.
+      "id": "sunset@mozilla.kewis.ch"
+    }
+  },
+
+  "icons": {
+    "32": "icon.svg"
+  },
+
+  "permissions": [
+    "storage"
+  ],
+
+  // If your add-on previously had a browserAction button you should add one here.
+  // "browser_action": {
+  //   "default_icon": "icon.svg",
+  //   "default_title": "__MSG_extensionName__"
+  // },
+
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}

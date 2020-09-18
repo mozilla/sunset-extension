@@ -1,0 +1,42 @@
+{
+  "extensionName": {
+    "message": "Sunset"
+  },
+  "extensionDescription": {
+    "message": "This add-on is being discontinued."
+  },
+  "discontinue-header": {
+    "message": "It's time to go"
+  },
+  "title": {
+    "message": "$ADDON$ is being discontinued",
+    "placeholders": {
+      "addon" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "discontinue-text": {
+    "message": "We've made the tough decision to discontinue $ADDON$, as we continue to refine our product strategy. We understand this might be surprising to you and would like to make the transition as easy as possible. On this page, you have the opportunity to export your data. Thank you for being a strong supporter.",
+    "placeholders": {
+      "addon" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "replacement-text": {
+    "message": "To make saying good bye easier, we've put together a selection of alternative add-ons that offer similar functionality:"
+  },
+  "export-button": {
+    "message": "Export your data"
+  },
+  "uninstall-button": {
+    "message": "Uninstall $ADDON$",
+    "placeholders": {
+      "addon" : {
+        "content" : "$1"
+      }
+    }
+  }
+}
+
